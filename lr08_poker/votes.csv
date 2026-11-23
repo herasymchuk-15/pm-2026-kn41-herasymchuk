@@ -38,3 +38,12 @@ S-07,1,pessimistic,13
 S-10,1,optimistic,5
 S-10,1,likely,13
 S-10,1,pessimistic,21
+S-17,1,optimistic,3
+S-17,1,likely,8
+S-17,1,pessimistic,13
+S-18,1,optimistic,2
+S-18,1,likely,5
+S-18,1,pessimistic,8
+S-19,1,optimistic,1
+S-19,1,likely,3
+S-19,1,pessimistic,5

@@ -5,3 +5,4 @@ ST-03,Студент учасник сесії,Студенти,high,low,support
 ST-04,Викладач іншої кафедри,Інша кафедра,high,low,supporter,keep_informed,BA
 ST-05,Адміністратор серверної інфраструктури,ІТ служба,low,high,blocker,keep_satisfied,Dev
 ST-06,Зовнішній користувач без реєстрації,Користувачі,low,low,neutral,monitor,UX
+ST-07,Служба інформаційної безпеки академії,Академія,high,high,neutral,manage_closely,PM
