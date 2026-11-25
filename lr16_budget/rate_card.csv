@@ -1,1 +1,6 @@
 role,fte,hours,rate,source,note
+Dev,1.5,960,480,https://jobs.dou.ua/salaries/,Два розробники (100% + 50%) за єдиною ставкою; найвища ставка за пропорцією DOU
+PM,0.5,320,430,https://jobs.dou.ua/salaries/,Приблизно на 10% нижче за Dev за медіанами Middle DOU; відповідальність за строк і бюджет
+BA,0.5,320,410,https://jobs.dou.ua/salaries/,Приблизно на 15% нижче за Dev за медіанами Middle DOU
+QA,0.5,320,380,https://jobs.dou.ua/salaries/,Приблизно на 21% нижче за Dev за медіанами Middle DOU
+UX,0.25,160,370,https://jobs.dou.ua/salaries/,Приблизно на 23% нижче за Dev за медіанами UI/UX Designer DOU

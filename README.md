@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V09                                                                                                                                                                                                                     |
 | Трекер               | Jira                                                                                                                                                                                                                    |
 | Дошка                | [SCRUM Board](https://natager1503.atlassian.net/jira/software/projects/PPPS/boards/2?filter=&groupBy=none) [Kanban Board](https://natager1503.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none) |
-| Валюта проєкту       | для кошторису ЛР16                                                                                                                                                                                                      |
-| Contingency, %       | від прямих витрат, ЛР16                                                                                                                                                                                                 |
+| Валюта проєкту       | грн                                                                                                                                                                                                                     |
+| Contingency, %       | 11%                                                                                                                                                                                                                     |
 
 ## Як влаштований репозиторій
 
